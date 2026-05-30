@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsender",
+        "uuid": 3537792,
+        "checksum": "e34q4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
